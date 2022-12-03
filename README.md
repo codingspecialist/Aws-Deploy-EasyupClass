@@ -1,5 +1,8 @@
 # AWS 배포 이지업클래스 유료 강의
 
+### v1, v2, v3, v4 실습 파일 폴더 정리
+- 모든 실습 소스코드가 정리되어 있습니다.
+
 ### 배포 V1 EC2 기본 배포
 - https://github.com/codingspecialist/aws-v1
 
